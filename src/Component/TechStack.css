@@ -1,0 +1,65 @@
+.techstack-div1{
+    background: #101118;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.tech-text1{
+    color: #FFF;
+font-family: Bebas Neue;
+font-size: 108px;
+font-style: normal;
+font-weight: 400;
+line-height: 1;
+
+}
+
+.tech-text2{
+    color: #ADB5BD;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+background-color: #101118;
+position:relative;
+z-index: 3;
+}
+
+.tech-text3{
+    color: #ADB5BD;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px;
+margin-top: 15px;
+text-align: center;
+}
+
+.techstack-div3{
+    column-gap: 25px;
+    row-gap: 25px;
+    margin-top: 80px;
+}
+
+@media only screen and (max-width: 767px) {
+    .techstack-div1{
+        padding: 150px 20px;
+    }
+    .techstack-div3{
+        row-gap: 25px;
+        justify-content: center;
+    }
+
+    .tech-text1{
+        font-size: 60px;
+    }
+
+    .tech-text2{
+        font-size: 22px;
+    }
+}
+

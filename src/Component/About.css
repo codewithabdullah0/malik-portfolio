@@ -1,0 +1,286 @@
+.about-sec-div1 {
+  background-color: #f0f2f5;
+  min-height: 66vh;
+}
+
+.about-jacob-text1 {
+  font-size: 6.8rem;
+  font-weight: 400;
+  line-height: 0.9;
+  font-family: Bebas neue, sans-serif;
+  color: #fff;
+}
+
+.about-jacob-text2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #6c757d;
+  font-family: Bebas neue, sans-serif;
+}
+
+.about-jacob-text3 {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #adb5bd;
+  font-family: Manrope, sans-serif;
+  margin-right: 25px;
+}
+
+.about-ach-main-div {
+  margin-top: 180px;
+}
+
+.about-ach-text1 {
+  font-size: 6.8rem;
+  font-weight: 400;
+  line-height: 0.9;
+  font-family: Bebas neue, sans-serif;
+  color: #fff;
+}
+
+.about-ach-div1 {
+  margin-top: 90px;
+}
+
+.card-text1-divs1{
+  margin-top: 90px;
+}
+
+.card-text1-divs1{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  width: 100%;
+  background-color: #fff;
+  display: grid;
+  place-content: center;
+}
+
+.card-text1-divs12{
+  padding-top: 75px;
+  padding-bottom: 75px;
+  width: 100%;
+  background-color: #fff;
+  display: grid;
+  place-content: center;
+  margin-top: 30px;
+}
+
+
+
+.agency-text21{
+color: #202026;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 1;
+margin-bottom: 0px;
+margin-top: 22px;
+}
+
+.agency-text22{
+color: #6C757D;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 1;
+margin-bottom: 0px;
+margin-top: 14px;
+}
+
+.agency-text23{
+color: #6C757D;
+font-family: Noto Serif;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+text-decoration-line: underline;
+margin-top: 20px;
+}
+
+.agency-text23:hover{
+  color: #6C757D;
+}
+
+.about-year-text1 {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #adb5bd;
+  font-family: Manrope, sans-serif;
+}
+
+.about-year-text2 {
+  color: #fff;
+  /* padding-top: 5px;
+    padding-bottom: 5px; */
+  font-family: Bebas neue, sans-serif;
+  font-size: 6.25rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.exper-text1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #101118;
+  font-family: Bebas neue, sans-serif;
+}
+
+.exper-text2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c757d;
+  font-family: Manrope, sans-serif;
+}
+
+.exper-text4 {
+  color: #6c757d;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  font-family: Manrope, sans-serif;
+  font-weight: 500;
+  margin-top: 13px;
+}
+
+.ach-hr {
+  width: 100%;
+  height: 1px;
+  background-color: #ced4da;
+}
+
+.about-sec-div4 {
+  padding-top: 50px;
+  padding-bottom: 120px;
+}
+
+.profile5 {
+  width: 670px;
+  height: 670px;
+}
+
+.follow-div2 {
+  background-color: #202026;
+  padding: 4rem 3rem;
+  width: 30rem;
+}
+
+.follows-text2 {
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #fff;
+  font-family: Bebas neue, sans-serif;
+}
+
+.follows-text3 {
+  color: #adb5bd;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: Manrope, sans-serif;
+  margin-top: 15px;
+}
+
+.follow-hr {
+  width: 100%;
+  height: 1px;
+  background-color: #6c757d;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.follow-logos {
+  width: 24px;
+  height: 24px;
+}
+
+.follow-logo-div {
+  column-gap: 45px;
+  /* padding-left: 15px; */
+  justify-content: center;
+  align-items: center;
+}
+
+
+@media only screen and (max-width: 576px) {
+
+
+  .card-text1-divs1{
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 30px;
+  }
+
+  .agency-for-reponsive{
+    text-align: center;
+  }
+
+  .agency-text21{
+    font-size: 22px;
+  }
+
+  .home-sec-div2{
+    padding-left: 15px;
+  }
+
+  .about-jacob-text1{
+    font-size: 3rem;
+  }
+
+  .about-jacob-text2{
+    font-size: 2rem;
+  }
+
+  .about-jacob-text3{
+    margin-top: 25px;
+  }
+
+  .about-ach-text1{
+    font-size: 3rem;
+  }
+
+  .about-year-text2{
+    font-size: 4rem;
+  }
+
+  .about-ach-div1{
+    margin-top: 50px;
+  }
+
+  .exper-text1{
+    font-size: 2rem;
+  }
+  .about-year-text1{
+    margin-top: 20px;
+  }
+  .for-responsive-div1{
+    display: flex;
+    justify-content: center;
+  }
+
+  .profile5{
+    width: 320px;
+    height: 320px;
+  }
+  .follow-div1{
+    justify-content: center;
+  }
+
+  .follow-div2{
+    width: 19rem;
+    padding: 3rem 1rem;
+    margin-top: -50px;
+  }
+  .follow-logos{
+    width: 21px;
+    height: 21px;
+  }
+
+  .follow-logo-div{
+    column-gap: 24px;
+  }
+}

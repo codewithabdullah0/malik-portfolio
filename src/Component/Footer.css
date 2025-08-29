@@ -1,0 +1,132 @@
+.dark-footer-div1{
+background: #101118;
+padding-bottom: 30px;
+padding-top: 100px;
+}
+
+.dark-footer-text1{
+color: #FFF;
+font-family: Bebas Neue;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 97.92px; /* 272% */
+}
+
+.dark-footer-div3{
+column-gap: 60px;
+}
+
+.dark-footer-text2{
+    color: #6C757D;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; /* 150% */
+}
+
+.dark-footer-text3{
+color: #FFF;
+font-family: Bebas Neue;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 97px; /* 376.615% */
+}
+
+
+.dark-footer-text4{
+color: #FFF;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: 34px; /* 225% */
+text-decoration-line: underline;
+}
+
+.dark-footer-text4:hover{
+color: #FFF;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: 34px; /* 225% */
+text-decoration-line: underline;
+}
+
+.dark-footer-text5{
+color: #ADB5BD;
+font-family: Manrope;
+font-size: 15.6px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 128.205% */
+}
+
+
+
+
+.footer-bottom-div1{
+margin-top: 60px;
+}
+
+.footer-bottom-div2{
+width: 100%;
+height: 1px;
+flex-shrink: 0;
+/* stroke-width: 0.3px; */
+background-color: #7A7A7A;
+}
+
+.footer-bottom-div3{
+margin-top: 35px;
+}
+
+.footer-bottom-text1{
+color: #6C757D;
+text-align: center;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+
+.footer-bottom-text2{
+color: #6C757D;
+text-align: center;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+
+.footer-bottom-text2 span{
+color: #FFF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+}
+
+
+@media only screen and (max-width: 576px) {
+    .footer-bottom-text1{
+        text-align: center;
+        
+    }
+    .dark-footer-div1{
+background: #101118;
+padding-bottom: 30px;
+padding-top: 65px;
+}
+
+}
+

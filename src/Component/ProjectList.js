@@ -1,0 +1,60 @@
+export const project = [
+    {
+        id: 1,
+        //  title: ' Branding & Social Media Design ',
+        img: "ProjectImages/Group 1000008197.png",
+        title: ' Sheikh Chargha House ',
+        link: "https://www.behance.net/gallery/164844189/Sheikh-Chargha-Branding-Social-Media-App-Design",
+        category: 'Branding, Social Media, App Design',
+    },
+    {
+        id: 2,
+        title: 'Payever',
+        img: "ProjectImages/Group 1000008200.png",
+        link: "https://www.behance.net/gallery/164844083/Payever-SaaS-Product-Design",
+        category: 'UX Design, UI Design SaaS App',
+    },
+    {
+        id: 3,
+        title: 'OrSip Juice Bar & Cafe',
+        img: "ProjectImages/Group 1000008202.png",
+        link: "https://www.behance.net/gallery/164842989/OrSip-Branding-and-Packaging-Design",
+        category: 'Branding, Social Media Creatives',
+    },
+    {
+        id: 4,
+        title: ' TalkAsia VoIP ',
+        img: "ProjectImages/Group 1000008207.png",
+        link: "https://www.behance.net/gallery/164843331/Talk-Asia-VoIP-Branding-CRM-System-and-Social-Media",
+        category: 'Branding, Social Media, Website Design',
+    },
+
+    {
+        id: 5,
+         title: 'CAL ',
+        img: "ProjectImages/Group 1000008201.png",
+        link: "https://www.behance.net/gallery/164844909/CAL-Branding-and-App-Design",
+        category: 'Branding, Social Media, Mobile App',
+    },
+    {
+        id: 6,
+        title: ' Advance AMZ Agency ',
+        img: "ProjectImages/Group 1000008203.png",
+        link: "https://www.behance.net/gallery/164843715/Advance-AMZ-Agency-Website-and-Branding",
+        category: 'Branding, Social Media, Website Design',
+    },
+    {
+        id: 7,
+        title: ' Half Past Nine',
+        img: "ProjectImages/Group 1000008199.png",
+        link: "https://www.behance.net/gallery/164843931/HalfPastNine-Brand-Guideline-and-Social-Media-Design",
+        category: 'Branding, Social Media Creatives',
+    },
+    {
+        id: 8,
+        title: 'BrainSouls ',
+        img: "ProjectImages/Group 1000008205.png",
+        link: "https://www.behance.net/gallery/164844461/BrainSouls-Branding-Website-and-Social-Media-Design",
+        category: 'Branding, Social Media, Website Design',
+    },
+]
